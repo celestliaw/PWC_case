@@ -2,9 +2,7 @@
 case challenge
 
 # About
-The following repository consists of a python jupyter notebook and an R script that was used to answer the following questions.
+The following repository consists of a python jupyter notebook and an R script which consists of workings that was used to answer the following questions as required.
 
-R was used in: Which product category has the best potential 
-
-while the python jupyter notebook was used to answer: Which product category has the best performance and on finding out whether a CMO's marketing strategy differ by region.
+R was used to find out "which product category has the best potential" while python jupyter notebook was used to answer "Which product category has the best performance" and "whether a CMO's marketing strategy differ by region."
 
